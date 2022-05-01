@@ -27,7 +27,6 @@ def largestRectangleUnderSkyline(buildings):
 
     return max(ans_arr)
 
-
 if __name__ == '__main__':
 
     data = [20, 2, 2, 2, 2, 2, 10, 5, 5, 5, 4, 4]
