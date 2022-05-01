@@ -22,6 +22,7 @@ def largestRectangleUnderSkyline(buildings):
                     ans += 1
                 else:
                     break
+                    
         ans_arr.append(checkFor * ans)
 
     return max(ans_arr)
