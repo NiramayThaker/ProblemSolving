@@ -1,5 +1,4 @@
 def largestRectangleUnderSkyline(buildings):
-
     ans_arr = []
 
     for i in range(len(buildings)):
