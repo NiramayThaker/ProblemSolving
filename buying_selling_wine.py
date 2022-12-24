@@ -59,3 +59,12 @@ class Solution:
 
             print(Arr)
 
+# Base Test Case
+
+# 1)
+# 5
+# 5 -4 1 -3 1
+
+# 2)
+# 6
+# -1000 -1000 -1000 1000 1000 1000
