@@ -1,7 +1,6 @@
 # Source: GFG 
 # State: Unsolved
 
-
 class Solution:	
 	def wineSelling(self, Arr, N):
 		# code here
@@ -60,7 +59,6 @@ class Solution:
             print(Arr)
 
 # Base Test Case
-
 # 1)
 # 5
 # 5 -4 1 -3 1
