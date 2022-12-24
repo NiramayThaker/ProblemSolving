@@ -2,7 +2,6 @@
 # State: Unsolved
 
 
-
 class Solution:	
 	def wineSelling(self, Arr, N):
 		# code here
